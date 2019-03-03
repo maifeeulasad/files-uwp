@@ -291,9 +291,6 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Files_TemporaryKey.pfx" />
-  </ItemGroup>
-  <ItemGroup>
     <SDKReference Include="WindowsDesktop, Version=10.0.18342.0">
       <Name>Windows Desktop Extensions for the UWP</Name>
     </SDKReference>

@@ -40,7 +40,7 @@
     <DefaultLanguage>en-US</DefaultLanguage>
     <PackageCertificateKeyFile>FilesUwp.Package_TemporaryKey.pfx</PackageCertificateKeyFile>
     <EntryPointProjectUniqueName>..\Files UWP\FilesUWP.csproj</EntryPointProjectUniqueName>
-    <PackageCertificateThumbprint>D90FDFED5D096AAD472FE13BA80DBFD16C25914E</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>9BA3328CAA908FB539A9334F14A3CB36F0B6EF4F</PackageCertificateThumbprint>
     <GenerateAppInstallerFile>False</GenerateAppInstallerFile>
     <AppxAutoIncrementPackageRevision>False</AppxAutoIncrementPackageRevision>
     <AppInstallerUpdateFrequency>1</AppInstallerUpdateFrequency>
@@ -69,10 +69,9 @@
     <AppxManifest Include="Package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
-    <None Include="FilesUwp.Package_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Files_TemporaryKey.pfx" />
+    <None Include="FilesUwp.Package_TemporaryKey.pfx" />
     <Content Include="Images\LockScreenLogo.scale-200.png" />
     <Content Include="Images\Square150x150Logo.scale-200.png" />
     <Content Include="Images\Square44x44Logo.scale-200.png" />
